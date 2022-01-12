@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5760034843959902366
+  m_GuidHigh: 13859605317519607425
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5281046078237494478
+      m_GuidHigh: 18146975578052553407
+    m_SerializedTextureGuid:
+      m_GuidLow: 6414345075076547259
+      m_GuidHigh: 10625128095481354521
+    m_Size: {x: 0.16, y: 0.15946488}
+    m_SpecifySize: 1
+    m_Name: hashiqi
+    m_Texture: {fileID: 2800000, guid: 72b6c2bb54dc590419593060b5097493, type: 3}

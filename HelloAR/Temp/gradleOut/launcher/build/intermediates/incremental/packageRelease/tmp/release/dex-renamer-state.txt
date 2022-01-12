@@ -1,4 +1,0 @@
-#Tue Jan 11 18:00:09 CST 2022
-base.0=I\:\\Unity\\HelloAR\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
